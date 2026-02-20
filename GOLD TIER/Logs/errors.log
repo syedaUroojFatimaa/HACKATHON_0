@@ -1,0 +1,2 @@
+[2026-02-20 12:00:55 UTC] [QUARANTINE  ] file=test_stuck_task.md | reason=stuck (20 min in Needs_Action) | attempt=1/3 | retry_at=2026-02-20 12:05:55 UTC
+[2026-02-20 12:02:02 UTC] [RETRY       ] file=test_stuck_task.md | attempt=2/3 | moved_to=Needs_Action/test_stuck_task.md

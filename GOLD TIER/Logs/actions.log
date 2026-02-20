@@ -1,0 +1,189 @@
+[2026-02-18 15:04:09 UTC] Vault watcher started.
+[2026-02-18 15:04:09 UTC] Inbox is empty. Waiting for new .md files...
+[2026-02-18 15:04:19 UTC] New file detected: test_watcher_file.md
+[2026-02-18 15:04:19 UTC] Task created: task_test_watcher_file_md.md
+[2026-02-18 15:04:19 UTC] Processing pipeline completed successfully.
+[2026-02-18 15:04:19 UTC] Completed processing for: test_watcher_file.md
+[2026-02-18 15:16:15 UTC] [task-planner] Single-file mode: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox\sprint_planning.md
+[2026-02-18 15:16:15 UTC] [task-planner] Reading: sprint_planning.md
+[2026-02-18 15:16:15 UTC] [task-planner] Analyzing content of sprint_planning.md (178 words)
+[2026-02-18 15:16:15 UTC] [task-planner] Plan created: Needs_Action/Plan_sprint_planning_md.md
+[2026-02-18 15:16:15 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-18 15:16:15 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-18 15:16:15 UTC] [task-planner] Done planning: sprint_planning.md
+[2026-02-18 15:17:00 UTC] [task-planner] Single-file mode: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox\sprint_planning.md
+[2026-02-18 15:17:00 UTC] [task-planner] Skipped (already planned): sprint_planning.md
+[2026-02-18 15:17:34 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-18 15:17:34 UTC] [task-planner] Found 1 new file(s) to plan.
+[2026-02-18 15:17:34 UTC] [task-planner] Reading: bug_report.md
+[2026-02-18 15:17:34 UTC] [task-planner] Analyzing content of bug_report.md (120 words)
+[2026-02-18 15:17:34 UTC] [task-planner] Plan created: Needs_Action/Plan_bug_report_md.md
+[2026-02-18 15:17:34 UTC] [task-planner] Done planning: bug_report.md
+[2026-02-18 15:17:34 UTC] [task-planner] Batch complete: 1 planned, 0 failed.
+[2026-02-18 15:18:27 UTC] [task-planner] Single-file mode: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox\bug_report.md
+[2026-02-18 15:18:27 UTC] [task-planner] Reading: bug_report.md
+[2026-02-18 15:18:27 UTC] [task-planner] Analyzing content of bug_report.md (120 words)
+[2026-02-18 15:18:27 UTC] [task-planner] Plan created: Needs_Action/Plan_bug_report_md.md
+[2026-02-18 15:18:27 UTC] [task-planner] Done planning: bug_report.md
+[2026-02-18 15:29:52 UTC] [human-approval] Submitted for approval: approval_test_plan_for_approval_md.md
+[2026-02-18 15:29:52 UTC] [human-approval] Source: test_plan_for_approval.md
+[2026-02-18 15:29:52 UTC] [human-approval] Human action required: open Needs_Approval/approval_test_plan_for_approval_md.md and write APPROVED or REJECTED in the Decision section.
+[2026-02-18 15:29:52 UTC] [human-approval] Waiting for decision on: approval_test_plan_for_approval_md.md (timeout: 20s)
+[2026-02-18 15:29:52 UTC] [human-approval] APPROVED: approval_test_plan_for_approval_md.md -> approval_test_plan_for_approval_md.md.approved
+[2026-02-18 15:33:32 UTC] [human-approval] Submitted for approval: approval_test_plan_for_approval_md.md
+[2026-02-18 15:33:32 UTC] [human-approval] Source: test_plan_for_approval.md
+[2026-02-18 15:33:32 UTC] [human-approval] Human action required: open Needs_Approval/approval_test_plan_for_approval_md.md and write APPROVED or REJECTED in the Decision section.
+[2026-02-18 15:33:32 UTC] [human-approval] Waiting for decision on: approval_test_plan_for_approval_md.md (timeout: 20s)
+[2026-02-18 15:33:33 UTC] [human-approval] APPROVED: approval_test_plan_for_approval_md.md -> approval_test_plan_for_approval_md.md.approved
+[2026-02-18 15:43:42 UTC] [human-approval] Submitted for approval: approval_test_plan_for_approval_md.md
+[2026-02-18 15:43:42 UTC] [human-approval] Source: test_plan_for_approval.md
+[2026-02-18 15:43:42 UTC] [human-approval] Human action required: open Needs_Approval/approval_test_plan_for_approval_md.md and write APPROVED or REJECTED in the Decision section.
+[2026-02-18 15:43:42 UTC] [human-approval] Waiting for decision on: approval_test_plan_for_approval_md.md (timeout: 15s)
+[2026-02-18 15:43:47 UTC] [human-approval] APPROVED: approval_test_plan_for_approval_md.md -> approval_test_plan_for_approval_md.md.approved
+[2026-02-18 15:43:49 UTC] [human-approval] Submitted for approval: approval_test_plan_for_approval_md.md
+[2026-02-18 15:43:49 UTC] [human-approval] Source: test_plan_for_approval.md
+[2026-02-18 15:43:49 UTC] [human-approval] Human action required: open Needs_Approval/approval_test_plan_for_approval_md.md and write APPROVED or REJECTED in the Decision section.
+[2026-02-18 15:43:49 UTC] [human-approval] Waiting for decision on: approval_test_plan_for_approval_md.md (timeout: 15s)
+[2026-02-18 15:43:55 UTC] [human-approval] REJECTED: approval_test_plan_for_approval_md.md -> approval_test_plan_for_approval_md.md.rejected
+[2026-02-18 15:44:00 UTC] [human-approval] Submitted for approval: approval_test_plan_for_approval_md.md
+[2026-02-18 15:44:00 UTC] [human-approval] Source: test_plan_for_approval.md
+[2026-02-18 15:44:00 UTC] [human-approval] Human action required: open Needs_Approval/approval_test_plan_for_approval_md.md and write APPROVED or REJECTED in the Decision section.
+[2026-02-18 15:44:00 UTC] [human-approval] Waiting for decision on: approval_test_plan_for_approval_md.md (timeout: 5s)
+[2026-02-18 15:44:07 UTC] [human-approval] TIMEOUT: approval_test_plan_for_approval_md.md -> approval_test_plan_for_approval_md.md.timeout (after 5s)
+[2026-02-18 15:58:00 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-18 15:58:00 UTC] [task-planner] Found 1 new file(s) to plan.
+[2026-02-18 15:58:00 UTC] [task-planner] Reading: scheduler_test.md
+[2026-02-18 15:58:00 UTC] [task-planner] Analyzing content of scheduler_test.md (60 words)
+[2026-02-18 15:58:00 UTC] [task-planner] Plan created: Needs_Action/Plan_scheduler_test_md.md
+[2026-02-18 15:58:00 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-18 15:58:01 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-18 15:58:01 UTC] [task-planner] Done planning: scheduler_test.md
+[2026-02-18 15:58:01 UTC] [task-planner] Batch complete: 1 planned, 0 failed.
+[2026-02-18 15:58:52 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-18 15:58:52 UTC] [task-planner] No new .md files to plan.
+[2026-02-18 15:59:03 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-18 15:59:03 UTC] [task-planner] No new .md files to plan.
+[2026-02-18 15:59:14 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-18 15:59:14 UTC] [task-planner] No new .md files to plan.
+[2026-02-18 16:13:57 UTC] [vault-file-manager] MOVED: move_test.md from Inbox/ to Needs_Action/move_test.md
+[2026-02-18 16:14:01 UTC] [vault-file-manager] MOVED: move_test.md from Needs_Action/ to Done/move_test.md
+[2026-02-18 16:14:37 UTC] [human-approval] Submitted: approval_deploy_plan_md.md
+[2026-02-18 16:14:37 UTC] [human-approval] Waiting for decision: approval_deploy_plan_md.md (timeout 10s)
+[2026-02-18 16:14:41 UTC] [human-approval] APPROVED: approval_deploy_plan_md.md
+[2026-02-18 16:14:42 UTC] [human-approval] Submitted: approval_deploy_plan_md.md
+[2026-02-18 16:14:42 UTC] [human-approval] Waiting for decision: approval_deploy_plan_md.md (timeout 5s)
+[2026-02-18 16:14:48 UTC] [human-approval] TIMEOUT: approval_deploy_plan_md.md
+[2026-02-19 12:32:26 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-19 12:32:26 UTC] [task-planner] No new .md files to plan.
+[2026-02-19 12:33:18 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-19 12:33:18 UTC] [task-planner] Found 1 new file(s) to plan.
+[2026-02-19 12:33:18 UTC] [task-planner] Reading: smoke_test_final.md
+[2026-02-19 12:33:18 UTC] [task-planner] Analyzing content of smoke_test_final.md (49 words)
+[2026-02-19 12:33:18 UTC] [task-planner] Plan created: Needs_Action/Plan_smoke_test_final_md.md
+[2026-02-19 12:33:18 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 12:33:19 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 12:33:19 UTC] [task-planner] Done planning: smoke_test_final.md
+[2026-02-19 12:33:19 UTC] [task-planner] Batch complete: 1 planned, 0 failed.
+[2026-02-19 12:35:01 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-19 12:35:01 UTC] [task-planner] No new .md files to plan.
+[2026-02-19 12:35:32 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-19 12:35:32 UTC] [task-planner] No new .md files to plan.
+[2026-02-19 12:36:04 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-19 12:36:04 UTC] [task-planner] Found 1 new file(s) to plan.
+[2026-02-19 12:36:04 UTC] [task-planner] Reading: daemon_live_test.md
+[2026-02-19 12:36:04 UTC] [task-planner] Analyzing content of daemon_live_test.md (43 words)
+[2026-02-19 12:36:04 UTC] [task-planner] Plan created: Needs_Action/Plan_daemon_live_test_md.md
+[2026-02-19 12:36:04 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 12:36:05 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 12:36:05 UTC] [task-planner] Done planning: daemon_live_test.md
+[2026-02-19 12:36:05 UTC] [task-planner] Batch complete: 1 planned, 0 failed.
+[2026-02-19 12:36:37 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\SILVER TIER\Inbox
+[2026-02-19 12:36:37 UTC] [task-planner] No new .md files to plan.
+[2026-02-19 16:51:41 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\GOLD TIER\Inbox
+[2026-02-19 16:51:41 UTC] [task-planner] No new .md files to plan.
+[2026-02-19 16:52:06 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\GOLD TIER\Inbox
+[2026-02-19 16:52:06 UTC] [task-planner] No new .md files to plan.
+[2026-02-19 16:54:23 UTC] [gmail-watcher] Single check started.
+[2026-02-19 16:54:23 UTC] [gmail-watcher] [ERROR] EMAIL_ADDRESS not set.
+[2026-02-19 16:56:02 UTC] [gmail-watcher] Single check started.
+[2026-02-19 16:56:02 UTC] [gmail-watcher] [ERROR] EMAIL_ADDRESS not set.
+[2026-02-19 16:59:04 UTC] [gmail-watcher] Single check started.
+[2026-02-19 16:59:05 UTC] [gmail-watcher] [ERROR] EMAIL_ADDRESS not set.
+[2026-02-19 17:10:55 UTC] [gmail-watcher] Single check started.
+[2026-02-19 17:10:57 UTC] [gmail-watcher] Email -> task: email_Ai_Employees_finish_setting_up_your_new_Google_Acc_20260219171057.md (from: Google <no-reply@google.com>)
+[2026-02-19 17:10:57 UTC] [gmail-watcher] Email -> task: email_Your_new_privacy_settings_on_Play_20260219171057.md (from: Google Play <googleplay-noreply@google.com>)
+[2026-02-19 17:10:58 UTC] [gmail-watcher] Email -> task: email_Security_alert_20260219171058.md (from: Google <no-reply@accounts.google.com>)
+[2026-02-19 17:10:58 UTC] [gmail-watcher] Email -> task: email_Your_Account_is_Live_Finish_Setting_Up_Your_Busine_20260219171058.md (from: Google Community Team <googlecommunityteam-noreply@google.com>)
+[2026-02-19 17:10:59 UTC] [gmail-watcher] Email -> task: email_2-Step_Verification_turned_on_20260219171059.md (from: Google <no-reply@accounts.google.com>)
+[2026-02-19 17:10:59 UTC] [gmail-watcher] Email -> task: email_Security_alert_20260219171059.md (from: Google <no-reply@accounts.google.com>)
+[2026-02-19 17:10:59 UTC] [gmail-watcher] Email -> task: email_Security_alert_20260219171059.md (from: Google <no-reply@accounts.google.com>)
+[2026-02-19 17:11:00 UTC] [gmail-watcher] Email -> task: email_Security_alert_20260219171100.md (from: Google <no-reply@accounts.google.com>)
+[2026-02-19 17:11:00 UTC] [gmail-watcher] Done. 8 new email(s) processed.
+[2026-02-19 17:11:44 UTC] [task-planner] Scanning inbox: C:\Users\Dell\Desktop\Hackathon_0\GOLD TIER\Inbox
+[2026-02-19 17:11:44 UTC] [task-planner] Found 7 new file(s) to plan.
+[2026-02-19 17:11:44 UTC] [task-planner] Reading: email_2-Step_Verification_turned_on_20260219171059.md
+[2026-02-19 17:11:44 UTC] [task-planner] Analyzing content of email_2-Step_Verification_turned_on_20260219171059.md (185 words)
+[2026-02-19 17:11:44 UTC] [task-planner] Plan created: Needs_Action/Plan_email_2-Step_Verification_turned_on_20260219171059_md.md
+[2026-02-19 17:11:44 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 17:11:47 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 17:11:47 UTC] [task-planner] Done planning: email_2-Step_Verification_turned_on_20260219171059.md
+[2026-02-19 17:11:47 UTC] [task-planner] Reading: email_Ai_Employees_finish_setting_up_your_new_Google_Acc_20260219171057.md
+[2026-02-19 17:11:47 UTC] [task-planner] Analyzing content of email_Ai_Employees_finish_setting_up_your_new_Google_Acc_20260219171057.md (181 words)
+[2026-02-19 17:11:47 UTC] [task-planner] Plan created: Needs_Action/Plan_email_Ai_Employees_finish_setting_up_your_new_Google_Acc_20260219171057_md.md
+[2026-02-19 17:11:47 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 17:11:48 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 17:11:48 UTC] [task-planner] Done planning: email_Ai_Employees_finish_setting_up_your_new_Google_Acc_20260219171057.md
+[2026-02-19 17:11:48 UTC] [task-planner] Reading: email_Security_alert_20260219171058.md
+[2026-02-19 17:11:48 UTC] [task-planner] Analyzing content of email_Security_alert_20260219171058.md (155 words)
+[2026-02-19 17:11:48 UTC] [task-planner] Plan created: Needs_Action/Plan_email_Security_alert_20260219171058_md.md
+[2026-02-19 17:11:48 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 17:11:48 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 17:11:48 UTC] [task-planner] Done planning: email_Security_alert_20260219171058.md
+[2026-02-19 17:11:48 UTC] [task-planner] Reading: email_Security_alert_20260219171059.md
+[2026-02-19 17:11:48 UTC] [task-planner] Analyzing content of email_Security_alert_20260219171059.md (146 words)
+[2026-02-19 17:11:48 UTC] [task-planner] Plan created: Needs_Action/Plan_email_Security_alert_20260219171059_md.md
+[2026-02-19 17:11:48 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 17:11:49 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 17:11:49 UTC] [task-planner] Done planning: email_Security_alert_20260219171059.md
+[2026-02-19 17:11:49 UTC] [task-planner] Reading: email_Security_alert_20260219171100.md
+[2026-02-19 17:11:50 UTC] [task-planner] Analyzing content of email_Security_alert_20260219171100.md (146 words)
+[2026-02-19 17:11:50 UTC] [task-planner] Plan created: Needs_Action/Plan_email_Security_alert_20260219171100_md.md
+[2026-02-19 17:11:50 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 17:11:50 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 17:11:50 UTC] [task-planner] Done planning: email_Security_alert_20260219171100.md
+[2026-02-19 17:11:50 UTC] [task-planner] Reading: email_Your_Account_is_Live_Finish_Setting_Up_Your_Busine_20260219171058.md
+[2026-02-19 17:11:51 UTC] [task-planner] Analyzing content of email_Your_Account_is_Live_Finish_Setting_Up_Your_Busine_20260219171058.md (247 words)
+[2026-02-19 17:11:51 UTC] [task-planner] Plan created: Needs_Action/Plan_email_Your_Account_is_Live_Finish_Setting_Up_Your_Busine_20260219171058_md.md
+[2026-02-19 17:11:51 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 17:11:51 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 17:11:51 UTC] [task-planner] Done planning: email_Your_Account_is_Live_Finish_Setting_Up_Your_Busine_20260219171058.md
+[2026-02-19 17:11:51 UTC] [task-planner] Reading: email_Your_new_privacy_settings_on_Play_20260219171057.md
+[2026-02-19 17:11:51 UTC] [task-planner] Analyzing content of email_Your_new_privacy_settings_on_Play_20260219171057.md (353 words)
+[2026-02-19 17:11:51 UTC] [task-planner] Plan created: Needs_Action/Plan_email_Your_new_privacy_settings_on_Play_20260219171057_md.md
+[2026-02-19 17:11:51 UTC] [task-planner] Triggering vault-file-manager to archive plan...
+[2026-02-19 17:11:52 UTC] [task-planner] Vault-file-manager: plan archived to Done/ successfully.
+[2026-02-19 17:11:52 UTC] [task-planner] Done planning: email_Your_new_privacy_settings_on_Play_20260219171057.md
+[2026-02-19 17:11:52 UTC] [task-planner] Batch complete: 7 planned, 0 failed.
+[2026-02-19 17:57:41 UTC] [accounting-manager] Created ledger: C:\Users\Dell\Desktop\Hackathon_0\GOLD TIER\Accounting\Current_Month.md
+[2026-02-19 17:57:41 UTC] [accounting-manager] ADD income | amount=1500.00 | desc=Client payment - Acme Corp
+[2026-02-19 17:57:44 UTC] [accounting-manager] ADD expense | amount=49.99 | desc=Notion subscription
+[2026-02-19 17:57:47 UTC] [accounting-manager] ADD expense | amount=200.00 | desc=Cloud hosting
+[2026-02-19 18:01:43 UTC] [accounting-manager] ADD income | amount=1500.00 | desc=Client payment - Acme Corp
+[2026-02-19 18:01:45 UTC] [accounting-manager] ADD expense | amount=49.99 | desc=Notion subscription
+[2026-02-19 18:01:47 UTC] [accounting-manager] ADD expense | amount=200.00 | desc=Cloud hosting
+[2026-02-19 18:01:48 UTC] [accounting-manager] ADD income | amount=800.00 | desc=Consulting retainer
+[2026-02-19 18:02:08 UTC] [accounting-manager] REPORT | income=3800.00 | expenses=499.98 | net=3300.02
+[2026-02-19 18:06:28 UTC] [accounting-manager] Created ledger: C:\Users\Dell\Desktop\Hackathon_0\GOLD TIER\Accounting\Current_Month.md
+[2026-02-19 18:06:28 UTC] [accounting-manager] ADD income | amount=3000.00 | desc=Project invoice - BetaCorp
+[2026-02-19 18:06:37 UTC] [accounting-manager] ADD expense | amount=49.99 | desc=Notion subscription
+[2026-02-19 18:06:43 UTC] [accounting-manager] ADD expense | amount=200.00 | desc=Cloud hosting - AWS
+[2026-02-19 18:06:45 UTC] [accounting-manager] ADD income | amount=800.00 | desc=Consulting retainer
+[2026-02-19 18:07:06 UTC] [accounting-manager] SUMMARY | income=3800.00 | expenses=249.99 | net=3550.01
+[2026-02-19 18:07:08 UTC] [accounting-manager] WEEKLY report generated
+[2026-02-19 18:09:24 UTC] [accounting-manager] REPORT | income=3800.00 | expenses=249.99 | net=3550.01
+[2026-02-19 18:18:08 UTC] [ceo-briefing] CEO briefing generated | week=2026-W08 | tasks=26 | emails=0 | approvals=0
+[2026-02-20 12:00:55 UTC] [error-recovery] QUARANTINE | file=test_stuck_task.md | attempt=1 | reason=stuck (20 min in Needs_Action)
+[2026-02-20 12:02:02 UTC] [error-recovery] RETRY | file=test_stuck_task.md | attempt=2
+[2026-02-20 12:21:33 UTC] [social-summary] Logged post to LinkedIn (total posts: 1)
+[2026-02-20 12:21:52 UTC] [social-summary] Logged post to Twitter (total posts: 2)
+[2026-02-20 12:23:05 UTC] [social-summary] Logged post to LinkedIn (total posts: 3)

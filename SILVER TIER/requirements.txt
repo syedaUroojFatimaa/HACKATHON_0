@@ -1,0 +1,10 @@
+# Silver Tier AI Employee — Dependencies
+#
+# Core vault functionality (vault-watcher, task-planner, scheduler,
+# human-approval, vault-file-manager, gmail-send, MCP email server)
+# uses only the Python standard library — no extra installs needed.
+#
+# The packages below are required only for specific skills.
+
+# linkedin-post & linkedin-auto-post — browser automation for LinkedIn
+playwright>=1.40.0

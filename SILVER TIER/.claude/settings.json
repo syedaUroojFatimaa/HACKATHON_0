@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "email-server": {
+      "command": "python",
+      "args": ["mcp_servers/email_server.py"],
+      "env": {
+        "EMAIL_ADDRESS": "${EMAIL_ADDRESS}",
+        "EMAIL_PASSWORD": "${EMAIL_PASSWORD}"
+      }
+    }
+  }
+}

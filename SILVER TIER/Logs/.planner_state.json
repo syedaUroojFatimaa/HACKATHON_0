@@ -1,0 +1,22 @@
+{
+  "sprint_planning.md": {
+    "planned_at": "2026-02-18 15:16:15 UTC",
+    "plan_file": "Plan_sprint_planning_md.md"
+  },
+  "bug_report.md": {
+    "planned_at": "2026-02-18 15:18:27 UTC",
+    "plan_file": "Plan_bug_report_md.md"
+  },
+  "scheduler_test.md": {
+    "planned_at": "2026-02-18 15:58:01 UTC",
+    "plan_file": "Plan_scheduler_test_md.md"
+  },
+  "smoke_test_final.md": {
+    "planned_at": "2026-02-19 12:33:19 UTC",
+    "plan_file": "Plan_smoke_test_final_md.md"
+  },
+  "daemon_live_test.md": {
+    "planned_at": "2026-02-19 12:36:05 UTC",
+    "plan_file": "Plan_daemon_live_test_md.md"
+  }
+}

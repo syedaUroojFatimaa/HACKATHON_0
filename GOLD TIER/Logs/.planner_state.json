@@ -1,0 +1,50 @@
+{
+  "sprint_planning.md": {
+    "planned_at": "2026-02-18 15:16:15 UTC",
+    "plan_file": "Plan_sprint_planning_md.md"
+  },
+  "bug_report.md": {
+    "planned_at": "2026-02-18 15:18:27 UTC",
+    "plan_file": "Plan_bug_report_md.md"
+  },
+  "scheduler_test.md": {
+    "planned_at": "2026-02-18 15:58:01 UTC",
+    "plan_file": "Plan_scheduler_test_md.md"
+  },
+  "smoke_test_final.md": {
+    "planned_at": "2026-02-19 12:33:19 UTC",
+    "plan_file": "Plan_smoke_test_final_md.md"
+  },
+  "daemon_live_test.md": {
+    "planned_at": "2026-02-19 12:36:05 UTC",
+    "plan_file": "Plan_daemon_live_test_md.md"
+  },
+  "email_2-Step_Verification_turned_on_20260219171059.md": {
+    "planned_at": "2026-02-19 17:11:47 UTC",
+    "plan_file": "Plan_email_2-Step_Verification_turned_on_20260219171059_md.md"
+  },
+  "email_Ai_Employees_finish_setting_up_your_new_Google_Acc_20260219171057.md": {
+    "planned_at": "2026-02-19 17:11:48 UTC",
+    "plan_file": "Plan_email_Ai_Employees_finish_setting_up_your_new_Google_Acc_20260219171057_md.md"
+  },
+  "email_Security_alert_20260219171058.md": {
+    "planned_at": "2026-02-19 17:11:48 UTC",
+    "plan_file": "Plan_email_Security_alert_20260219171058_md.md"
+  },
+  "email_Security_alert_20260219171059.md": {
+    "planned_at": "2026-02-19 17:11:49 UTC",
+    "plan_file": "Plan_email_Security_alert_20260219171059_md.md"
+  },
+  "email_Security_alert_20260219171100.md": {
+    "planned_at": "2026-02-19 17:11:50 UTC",
+    "plan_file": "Plan_email_Security_alert_20260219171100_md.md"
+  },
+  "email_Your_Account_is_Live_Finish_Setting_Up_Your_Busine_20260219171058.md": {
+    "planned_at": "2026-02-19 17:11:51 UTC",
+    "plan_file": "Plan_email_Your_Account_is_Live_Finish_Setting_Up_Your_Busine_20260219171058_md.md"
+  },
+  "email_Your_new_privacy_settings_on_Play_20260219171057.md": {
+    "planned_at": "2026-02-19 17:11:52 UTC",
+    "plan_file": "Plan_email_Your_new_privacy_settings_on_Play_20260219171057_md.md"
+  }
+}
