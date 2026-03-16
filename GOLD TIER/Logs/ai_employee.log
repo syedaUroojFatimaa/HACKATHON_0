@@ -91,3 +91,116 @@
 [2026-02-19 17:11:52 UTC] [INFO] Process tasks completed.
 [2026-02-19 17:11:52 UTC] [INFO] --- Single run finished (new=8, planner=OK, processor=OK, approvals=0) ---
 [2026-02-19 17:11:52 UTC] [INFO] Scheduler finished (--once).
+[2026-03-02 19:13:49 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:13:49 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:13:49 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:13:50 UTC] [INFO] Task planner completed.
+[2026-03-02 19:13:51 UTC] [INFO] Ralph loop: [ralph-loop] 1 task(s) to process (max 10 per cycle).
+[2026-03-02 19:13:50 UTC] [ralph-loop] START | task=test_stuck_task.md | steps=2 | priority=high
+[2026-03-02 19:13:50 UTC] [ralph-loop] EXEC | task=test_stuck_task.md | Step 1/2: Review test.md
+[2026-03-02 19:13:50 UTC] [ralph-loop] EXEC | task=t
+[2026-03-02 19:13:52 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:13:52 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:18:01 UTC] [WARN] Stale lock found (PID 2144 dead). Cleaning up.
+[2026-03-02 19:18:01 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:18:01 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:18:01 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:18:03 UTC] [INFO] Task planner completed.
+[2026-03-02 19:18:03 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:18:04 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:18:04 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:23:06 UTC] [WARN] Stale lock found (PID 3624 dead). Cleaning up.
+[2026-03-02 19:23:06 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:23:06 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:23:06 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:23:08 UTC] [INFO] Task planner completed.
+[2026-03-02 19:23:09 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:23:09 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:23:10 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:28:04 UTC] [WARN] Stale lock found (PID 11496 dead). Cleaning up.
+[2026-03-02 19:28:04 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:28:04 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:28:04 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:28:06 UTC] [INFO] Task planner completed.
+[2026-03-02 19:28:10 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:28:12 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:28:12 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:33:09 UTC] [WARN] Stale lock found (PID 6688 dead). Cleaning up.
+[2026-03-02 19:33:09 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:33:09 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:33:09 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:33:11 UTC] [INFO] Task planner completed.
+[2026-03-02 19:33:12 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:33:12 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:33:15 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:38:22 UTC] [WARN] Stale lock found (PID 11364 dead). Cleaning up.
+[2026-03-02 19:38:22 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:38:22 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:38:22 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:38:29 UTC] [INFO] Task planner completed.
+[2026-03-02 19:38:47 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:38:51 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:38:56 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:43:03 UTC] [WARN] Stale lock found (PID 7096 dead). Cleaning up.
+[2026-03-02 19:43:03 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:43:03 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:43:03 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:43:04 UTC] [INFO] Task planner completed.
+[2026-03-02 19:43:05 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:43:05 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:43:06 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:48:10 UTC] [WARN] Stale lock found (PID 7584 dead). Cleaning up.
+[2026-03-02 19:48:10 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:48:10 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:48:10 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:48:17 UTC] [INFO] Task planner completed.
+[2026-03-02 19:48:17 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:48:19 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:48:20 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:54:37 UTC] [WARN] Stale lock found (PID 12028 dead). Cleaning up.
+[2026-03-02 19:54:37 UTC] [INFO] Scheduler started (--once).
+[2026-03-02 19:54:37 UTC] [INFO] --- Single run started ---
+[2026-03-02 19:54:37 UTC] [INFO] Inbox scan: no new files.
+[2026-03-02 19:54:38 UTC] [INFO] Task planner completed.
+[2026-03-02 19:54:38 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-02 19:54:39 UTC] [INFO] Process tasks completed.
+[2026-03-02 19:54:39 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0
+[2026-03-02 19:58:02 UTC] [ERROR] Another scheduler is running (PID 2440). Aborting.
+[2026-03-03 19:04:53 UTC] [WARN] Stale lock found (PID 2440 dead). Cleaning up.
+[2026-03-03 19:04:54 UTC] [INFO] Scheduler started (--once).
+[2026-03-03 19:04:54 UTC] [INFO] --- Single run started ---
+[2026-03-03 19:04:54 UTC] [INFO] Inbox scan: no new files.
+[2026-03-03 19:04:56 UTC] [INFO] Task planner completed.
+[2026-03-03 19:05:00 UTC] [INFO] Ralph loop: [ralph-loop] No eligible tasks in Needs_Action/.
+[2026-03-03 19:05:01 UTC] [INFO] Process tasks completed.
+[2026-03-03 19:05:02 UTC] [INFO] Error recovery: [error-recovery] Running error recovery cycle...
+[error-recovery] Scan complete: no stuck files found.
+[error-recovery] Retry pass complete: nothing due.
+[error-recovery] Cycle done | newly_quarantined=0 | retried=0 | in_quarantine=0 | exhausted=0

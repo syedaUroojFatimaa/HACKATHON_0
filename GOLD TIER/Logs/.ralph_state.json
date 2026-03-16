@@ -1,0 +1,10 @@
+{
+  "test_stuck_task.md": {
+    "status": "completed",
+    "current_step": 2,
+    "iterations": 2,
+    "started_at": "2026-03-02T19:13:50.731443+00:00",
+    "last_run": "2026-03-02T19:13:50.823417+00:00",
+    "completed_at": "2026-03-02T19:13:50.961347+00:00"
+  }
+}

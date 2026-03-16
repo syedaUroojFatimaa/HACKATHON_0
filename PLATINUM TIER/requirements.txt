@@ -1,0 +1,16 @@
+# Gold Tier AI Employee — Dependencies
+#
+# Core vault functionality (vault-watcher, task-planner, scheduler,
+# human-approval, vault-file-manager, gmail-send, MCP servers)
+# uses only the Python standard library — no extra installs needed.
+#
+# The packages below are required only for specific skills.
+
+# twitter-post skill — Twitter API v2 client
+# Only required if you activate Twitter posting (add TWITTER_* vars to .env)
+tweepy>=4.14.0
+
+# linkedin-post & linkedin-auto-post — browser automation for LinkedIn
+# These skills are DORMANT. Email is the primary outbound channel.
+# Only install if you choose to re-enable LinkedIn posting.
+playwright>=1.40.0

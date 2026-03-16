@@ -1,0 +1,30 @@
+{
+  "mcpServers": {
+    "email-server": {
+      "command": "python",
+      "args": ["mcp_servers/email_server.py"],
+      "env": {
+        "EMAIL_ADDRESS": "${EMAIL_ADDRESS}",
+        "EMAIL_PASSWORD": "${EMAIL_PASSWORD}"
+      }
+    },
+    "business-mcp": {
+      "command": "python",
+      "args": ["mcp/business_mcp/server.py"],
+      "env": {
+        "EMAIL_ADDRESS": "${EMAIL_ADDRESS}",
+        "EMAIL_PASSWORD": "${EMAIL_PASSWORD}"
+      }
+    },
+    "odoo-mcp": {
+      "command": "python",
+      "args": ["mcp/odoo_mcp/server.py"],
+      "env": {
+        "ODOO_URL":      "${ODOO_URL}",
+        "ODOO_DB":       "${ODOO_DB}",
+        "ODOO_USERNAME": "${ODOO_USERNAME}",
+        "ODOO_PASSWORD": "${ODOO_PASSWORD}"
+      }
+    }
+  }
+}

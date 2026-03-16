@@ -1,0 +1,169 @@
+# ============================================================================
+# Platinum Tier AI Employee - Git Ignore Rules
+# ============================================================================
+
+# ----------------------------------------------------------------------------
+# Secrets & Credentials (NEVER commit these)
+# ----------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+tokens/
+sessions/
+*.token
+*.session
+credentials.json
+service_account.json
+
+# ----------------------------------------------------------------------------
+# Python
+# ----------------------------------------------------------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ----------------------------------------------------------------------------
+# Node.js
+# ----------------------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn
+
+# PM2
+.pm2/
+*.pid
+*.state
+
+# ----------------------------------------------------------------------------
+# Logs & Runtime Data (too large/frequently changing)
+# ----------------------------------------------------------------------------
+Logs/
+*.log
+Logs/*.md
+!Logs/README.md
+Logs/System_Log.md
+Logs/watcher_errors.log
+Logs/ai_employee.log
+Logs/actions.log
+Logs/startup.log
+
+# State files (hidden, frequently updated)
+Logs/.*
+.*.json
+!package.json
+!package-lock.json
+
+# Lock files
+Logs/.scheduler.lock
+Logs/.watcher_state.json
+
+# ----------------------------------------------------------------------------
+# Task & Workflow Data (local state, not for sync)
+# ----------------------------------------------------------------------------
+Inbox/
+Needs_Action/
+Needs_Approval/
+Done/
+Plans/
+Reports/
+Accounting/
+Errors/
+
+# ----------------------------------------------------------------------------
+# Editor & OS Files
+# ----------------------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor
+*.sublime-project
+*.sublime-workspace
+.vs/
+*.log
+
+# ----------------------------------------------------------------------------
+# Build & Cache
+# ----------------------------------------------------------------------------
+.cache/
+tmp/
+temp/
+.tmp/
+*.tmp
+*.bak
+*.swp
